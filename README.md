@@ -1,6 +1,6 @@
 # Introduction to Git and Github
 
-This is a brief introduction to git and github. Conceptual overview slides are available as well as a quick reference guide and a more comprehensive command list.  
+This repo contains materials providing a brief introduction to git and github I've previously used for teaching. Conceptual overview [slides](https://github.com/ejolly/intro_to_git/blob/master/git_github_slides.pdf) are available as well as a [quick reference guide](https://github.com/ejolly/intro_to_git/blob/master/Git_Quick_Ref.pdf) and a more [comprehensive command list](https://github.com/ejolly/intro_to_git/blob/master/Git_Cheat_Sheet.pdf).  
 
 Below are examples of the more common commands you're likely to used regularly. These are also rendered as a brief blog post [here](https://eshinjolly.com/2019/01/04/git_github/).    
 
